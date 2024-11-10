@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.csv": "csv",
+        "locale": "cpp",
+        "algorithm": "cpp",
+        "regex": "cpp"
+    }
+}
